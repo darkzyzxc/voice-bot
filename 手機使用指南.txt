@@ -1,0 +1,9 @@
+手機使用教學(android)
+先到google play 商店下載Pydroid 3
+https://play.google.com/store/apps/details?id=ru.iiec.pydroid3
+安裝完成後開啟此應用程式
+開啟後點選左邊的菜單
+選擇pip
+在打上discord
+再來選擇安裝
+安裝完成後就可輸入你的程式碼並正常運行
